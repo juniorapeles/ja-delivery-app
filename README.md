@@ -24,9 +24,9 @@ Microsserviço para gerenciamento de pedidos, usuários e entregas, com arquitet
 - Cliente Service
 
 ## 🔄 Como subir localmente
-´´bash
+
 docker-compose up --build
-``
+
 ## 🔐 Autenticação
 
 Login e registro com JWT
