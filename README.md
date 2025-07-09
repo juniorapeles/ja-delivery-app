@@ -29,5 +29,5 @@ docker-compose up --build
 
 ## 🔐 Autenticação
 
-Login e registro com JWT
+- Login e registro com JWT
 ---
