@@ -30,12 +30,4 @@ docker-compose up --build
 ## 🔐 Autenticação
 
 Login e registro com JWT
-
-### 💡 Posts Semanais
-1. "Entendendo microsserviços na prática com Java + Spring Cloud"
-2. "Criando um Service Discovery com Eureka em poucos passos"
-3. "Mensageria com RabbitMQ: quando usar e como implementei"
-4. "Como escalar um sistema de delivery fictício com arquitetura desacoplada"
-5. "Deploy local com Docker Compose de microsserviços"
-
 ---
