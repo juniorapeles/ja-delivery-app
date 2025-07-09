@@ -2,7 +2,6 @@
 
 ### 📄 README
 
-```md
 # Delivery API – Sistema de Pedidos
 
 Microsserviço para gerenciamento de pedidos, usuários e entregas, com arquitetura baseada em Spring Cloud. Ideal para demonstrar conhecimentos em microsserviços, mensageria e integração.
@@ -25,9 +24,9 @@ Microsserviço para gerenciamento de pedidos, usuários e entregas, com arquitet
 - Cliente Service
 
 ## 🔄 Como subir localmente
-```bash
+´´bash
 docker-compose up --build
-
+``
 ## 🔐 Autenticação
 
 Login e registro com JWT
